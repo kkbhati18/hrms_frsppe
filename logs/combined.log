@@ -2,3 +2,5 @@
 2026-03-30T10:31:32.915Z [32minfo[39m: HRMS Node.js server running on port 5000 [undefined]
 2026-03-30T10:32:12.239Z [32minfo[39m: MongoDB connected: localhost
 2026-03-30T10:32:12.257Z [32minfo[39m: HRMS Node.js server running on port 5000 [undefined]
+2026-03-30T10:32:51.289Z [32minfo[39m: MongoDB connected: localhost
+2026-03-30T10:32:51.295Z [32minfo[39m: HRMS Node.js server running on port 5000 [development]
